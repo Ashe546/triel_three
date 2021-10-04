@@ -40,3 +40,19 @@ a{
  iframe{
      margin-top: 70px;
  }
+ #form{
+   width: 100%;
+   align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+   display: flex;
+
+ }
+ .ea{
+   margin-left: auto;
+   margin-right: auto;
+ }
+ button{
+   background-color: yellow;
+   margin-top: 20px
+ }
